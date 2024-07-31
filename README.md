@@ -1,4 +1,3 @@
-```markdown
 # Computer Vision Masterclass - Autoencoders for Image Compression
 
 This repository contains the Jupyter notebook for the "Computer Vision Masterclass" focusing on using autoencoders for image compression. Autoencoders are a type of neural network used to learn efficient codings of input data. This masterclass covers various aspects of implementing and training autoencoders for compressing images.
@@ -68,10 +67,4 @@ We welcome contributions to this project! If you find any issues or have suggest
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ```
-
-Feel free to customize any section further to fit your specific needs or to add more details where necessary.
